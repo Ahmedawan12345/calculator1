@@ -1,0 +1,28 @@
+table{
+    display: flex;
+    justify-content: center;
+    color: white; 
+}
+.main{
+    color: black;
+    font-size: 40px;
+    border: 2px solid black;
+    background-color: rgb(238, 243, 247);
+    
+}
+tr td{
+    padding:30px;
+    cursor: pointer;
+}
+
+.color{
+    background-color: gray;
+}
+
+.color1{
+    background-color: rgba(30, 26, 26, 0.787);
+}
+
+.color2{
+    background-color: rgba(228, 97, 31, 0.668);
+}
